@@ -11,4 +11,3 @@ catboost==1.2.5
 yfinance==0.2.38
 plotly==5.22.0
 requests==2.31.0
-tensorflow==2.16.1
